@@ -32,6 +32,7 @@
 	</logger>
 
 	<root level="WARN">
+	<!--<root level="DEBUG">-->
 		<appender-ref ref="STDOUT"/>
 		<appender-ref ref="LOGSTASH"/>
 	</root>
